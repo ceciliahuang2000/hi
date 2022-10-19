@@ -1,4 +1,0 @@
-This is test3.
-It has two lines.
-Line three is from non-owner laptop.
-The fourth line is from owner laptop.

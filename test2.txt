@@ -1,3 +1,0 @@
-This is test2.
-Line 2 of test2.
-Adding line3 of test2.

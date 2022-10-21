@@ -1,2 +1,2 @@
-This is merge test1.
+This is file is modified from branch plot.
 This file has two lines.

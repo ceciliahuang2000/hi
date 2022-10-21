@@ -1,2 +1,2 @@
-This is test1.
+This is merge test1.
 This file has two lines.
